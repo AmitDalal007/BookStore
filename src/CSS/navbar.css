@@ -1,0 +1,130 @@
+.navhead{
+    height: 100px !important;
+    background-color: #bc3232 !important;
+}
+
+.navColor{
+    background-color: #bc3232 !important;
+}
+
+.navHead{
+    background-color: #221e1f !important;
+}
+
+.wid{
+    width: 700px !important;
+}
+
+.linkColor{
+    color: white !important;
+    border-right: solid 2px #424242;
+}
+
+/* Home CSS */
+.sideHead{
+    color: #bc3232 !important;
+}
+
+.sideLink{
+    display: block !important;
+    text-decoration: none;
+    color: #404040 !important;
+}
+
+.sideLink:hover{
+    color: #bc3232 !important;
+}
+
+.sideBrdr{
+    border-right: solid 1px #ddd;
+}
+
+.rcircle{
+    width: 10px !important;
+    height: 10px !important;
+    border-radius: 50% !important;
+}
+
+.crTxt{
+    color: #bc3232 !important;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.crbrdr{
+    border-left: solid 2px #ddd;
+    border-right: solid 2px #ddd;
+}
+
+.redtxt{
+    color: #bc3232;
+}
+
+.crdlink{
+    text-decoration: none;
+    color: #404040 !important;
+}
+
+.crdlink:hover .crdtxt{
+    color: #bc3232 !important;
+}
+
+.crsbtn{
+    width: 20px !important;
+}
+
+.crsarr{
+    background-color: black !important;
+}
+
+.crsimg{
+    width: 130px !important;
+    height: 130px !important;
+}
+
+.card{
+    border: transparent !important;
+}
+
+/* Footer */
+.foottxt:hover{
+    color: white !important;
+}
+
+/* Login */
+.redtxt{
+    color: #bc3232 !important;
+}
+
+.redtxt:hover{
+    text-decoration: none !important;
+}
+
+
+.lineTxt {
+    width: 100%; 
+    text-align: center; 
+    border-bottom: 1px solid #bc3232; 
+    line-height: 0.1em;
+    margin: 10px 0 20px; 
+ } 
+ 
+ .lineTxt span { 
+     background:#fff; 
+     padding:0 10px; 
+ }
+
+ .shadlog{
+     box-shadow: 0 20px 20px 0 #404040;
+ }
+
+ .collaps{
+     display: none !important;
+     position: absolute;
+     width: 100%;
+     z-index: 2;
+ }
+
+ .hides:hover .collaps{
+     display: block !important;
+ }
